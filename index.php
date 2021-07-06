@@ -1,11 +1,14 @@
 <?php
+$access_token='flomoapi';
+$qqurl='http://127.0.0.1:5700/';
+
 require 'flomo.php';
 require 'qqapi.php';
 require 'sqlite.php';
 $flomo=new flomoapp();
 $qq=new qqapi();
-$qq->url='http://39.107.72.55:5700/';
-$qq->access_token='ixiaomei';
+$qq->url=$qqurl;
+$qq->access_token=$access_token;
 $post= file_get_contents("php://input");
 // $myfile = fopen("logfile", "a") or die("Unable to open file!");
 // fwrite($myfile, $post."\n");
