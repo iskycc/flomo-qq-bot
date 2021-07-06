@@ -14,7 +14,7 @@
 ![](https://cdn.jsdelivr.net/gh/iskycc/flomo-qq-bot/pic/dd.jpg)
 
 ## 声明
-本项目的可用性和稳定性依赖[Nodejs原生QQ机器人Http-Api(onebot的实现)](https://github.com/takayama-lily/node-onebot)作为QQ API，仅作为学习和交流。**请不要使用自己常用的QQ！** 感谢原开发者对QQ api的实现。
+本项目的可用性和稳定性依赖于[Nodejs原生QQ机器人Http-Api(onebot的实现)](https://github.com/takayama-lily/node-onebot)，该项目作为QQ API，仅作为学习和交流。**请不要使用自己常用的QQ！** 感谢原开发者对QQ api的实现。
 
 ## 要求
 ①Windows或者Linux操作系统的主机或服务器
