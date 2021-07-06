@@ -5,12 +5,13 @@
 ## 已实现的功能
 
 ①绑定
-
+![](https://cdn.jsdelivr.net/gh/iskycc/flomo-qq-bot/pic/bb.jpg)
 ②保存文字或图片
-
+![](https://cdn.jsdelivr.net/gh/iskycc/flomo-qq-bot/pic/aa.jpg)
 ③同时保存文字和图片
-
+![](https://cdn.jsdelivr.net/gh/iskycc/flomo-qq-bot/pic/cc.jpg)
 ④解绑
+![](https://cdn.jsdelivr.net/gh/iskycc/flomo-qq-bot/pic/dd.jpg)
 
 ## 声明
 本项目依赖[Nodejs原生QQ机器人Http-Api(onebot的实现)](https://github.com/takayama-lily/node-onebot)作为QQ API，仅作为学习和交流。**请不要使用自己常用的QQ！** 感谢原开发者对QQ api的实现。
